@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MoovieMania/static/css/main.d4cb8d7d.css",
+    "main.js": "/MoovieMania/static/js/main.697e7a79.js",
+    "static/media/searchh.svg": "/MoovieMania/static/media/searchh.3359db57975dcc5fed9fc245a3c1e746.svg",
+    "index.html": "/MoovieMania/index.html",
+    "main.d4cb8d7d.css.map": "/MoovieMania/static/css/main.d4cb8d7d.css.map",
+    "main.697e7a79.js.map": "/MoovieMania/static/js/main.697e7a79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4cb8d7d.css",
+    "static/js/main.697e7a79.js"
+  ]
+}
